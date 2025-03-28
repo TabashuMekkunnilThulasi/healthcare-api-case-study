@@ -31,6 +31,9 @@ To automate and optimize the processing of healthcare claims through microservic
 
 ![Claims API Architecture](./A_flowchart_illustration_depicts_a_healthcare_clai.png)
 
+This diagram shows the REST client interacting with a Spring Boot-based Claims Processing API, which stores data in both SQL and AWS S3.
+
+
 
 ## 🔐 Note
 Due to confidentiality agreements, source code and specific data cannot be shared. This case study is for portfolio and interview purposes only.
