@@ -26,6 +26,11 @@ To automate and optimize the processing of healthcare claims through microservic
 - Reduced manual processing by 60%
 - Improved system scalability and reliability
 - Contributed to faster claims turnaround times for the client
+- 
+## 🖼️ Architecture Diagram
+
+![Claims API Architecture](./A_flowchart_illustration_depicts_a_healthcare_clai.png)
+
 
 ## 🔐 Note
 Due to confidentiality agreements, source code and specific data cannot be shared. This case study is for portfolio and interview purposes only.
